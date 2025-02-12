@@ -1,7 +1,7 @@
 # Projeto: Controle de Servomotor por PWM com Raspberry Pi Pico
 
 ## 📌 Descrição
-Este projeto implementa o controle de um servomotor utilizando o microcontrolador Raspberry Pi Pico W, configurado no simulador Wokwi. O sistema utiliza o módulo PWM para ajustar o ângulo do servomotor, com movimentação suave entre 0 e 180 graus. Além disso, um LED é utilizado como indicador visual durante a movimentação do motor.
+Este projeto implementa o controle de um servomotor utilizando o microcontrolador Raspberry Pi Pico W, configurado no simulador Wokwi. O sistema utiliza o módulo PWM para ajustar o ângulo do servomotor, com movimentação suave entre 0 e 180 graus. Além disso, um LED é utilizado como indicador visual durante a movimentação do motor na placa BitDogLab.
 
 ## 🎯 Funcionalidades
 - Configuração do PWM na GPIO 22 com frequência de 50Hz (período de 20ms).
